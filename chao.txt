@@ -8,3 +8,4 @@ trong dam
 gi dep
 bang sen
 la xanh
+bong trang
